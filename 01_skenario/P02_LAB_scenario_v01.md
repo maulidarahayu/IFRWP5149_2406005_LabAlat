@@ -3,7 +3,6 @@ Mahasiswa melihat informasi ketersediaan peralatan melalui sistem. Petugas labor
 ID      kebutuhan Aktor         Nama fungsi
 LAB-R01 Mahasiswa               Lihat ketersediaan peralatan
 LAB-R02 Petugas laboratorium    Kelola data peralatan
-
 No. Temuan Perbaikan yang diperlukan Alasan
 1 … … …
 2 … … …
