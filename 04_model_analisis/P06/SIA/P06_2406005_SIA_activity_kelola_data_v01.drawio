@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ZxXiXkmcBNuhA_fPxvAG" name="SIA-UC10">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hUsenr550SiH_CXeBUld-2" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Admin Akademik" vertex="1">
+          <mxGeometry height="560" width="240" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-14" edge="1" parent="hUsenr550SiH_CXeBUld-2" source="8dtczT_I4XnNFRe7cw4x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-2" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-1" parent="hUsenr550SiH_CXeBUld-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="105" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-2" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Membuka menu Kelola Data" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-3" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memilih tindakan pengelolaan" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hUsenr550SiH_CXeBUld-3" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+          <mxGeometry height="560" width="320" x="280" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-4" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Menampilkan halaman Kelola Data" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-22" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-9">
+          <mxGeometry relative="1" x="-0.25" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+              <mxPoint x="300" y="540" />
+              <mxPoint x="160" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-5" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" value="Mengarahkan ke Tambah Data Mahasiswa" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-18" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.375;exitY=0.875;exitDx=0;exitDy=0;endArrow=block;endFill=1;exitPerimeter=0;" target="8dtczT_I4XnNFRe7cw4x-7">
+          <mxGeometry relative="1" x="0.2627" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="255" />
+              <mxPoint x="30" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-29" connectable="0" parent="8dtczT_I4XnNFRe7cw4x-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="[Ubah]" vertex="1">
+          <mxGeometry relative="1" x="-0.3124" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-20" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;entryPerimeter=0;" target="8dtczT_I4XnNFRe7cw4x-5">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-28" connectable="0" parent="8dtczT_I4XnNFRe7cw4x-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="[Tambah]" vertex="1">
+          <mxGeometry relative="1" x="0.3467" y="1" as="geometry">
+            <mxPoint x="-1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-21" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-8">
+          <mxGeometry relative="1" x="0.2914" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="230" />
+              <mxPoint x="10" y="440" />
+            </Array>
+            <mxPoint x="30" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-30" connectable="0" parent="8dtczT_I4XnNFRe7cw4x-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="[Hapus]" vertex="1">
+          <mxGeometry relative="1" x="-0.4506" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-6" parent="hUsenr550SiH_CXeBUld-3" style="rhombus;fontFamily=Times New Roman;" value="Jenis pengelolaan?" vertex="1">
+          <mxGeometry height="40" width="160" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-23" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-9">
+          <mxGeometry relative="1" x="0.048" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="380" />
+              <mxPoint x="290" y="505" />
+            </Array>
+            <mxPoint x="200" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-7" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Mengarahkan ke Ubah Data Mahasiswa" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-13" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="8dtczT_I4XnNFRe7cw4x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-9" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-8" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Mengarahkan ke Hapus Data Mahasiswa" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-9" parent="hUsenr550SiH_CXeBUld-3" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="145" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-15" edge="1" parent="1" source="8dtczT_I4XnNFRe7cw4x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-16" edge="1" parent="1" source="8dtczT_I4XnNFRe7cw4x-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dtczT_I4XnNFRe7cw4x-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;" target="8dtczT_I4XnNFRe7cw4x-6">
+          <mxGeometry relative="1" x="0.0455" as="geometry">
+            <mxPoint x="240" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

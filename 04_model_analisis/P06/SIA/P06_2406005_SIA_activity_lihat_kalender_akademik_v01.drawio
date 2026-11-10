@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ZxXiXkmcBNuhA_fPxvAG" name="SIA-UC07">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hUsenr550SiH_CXeBUld-2" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Civitas Akademika" vertex="1">
+          <mxGeometry height="660" width="280" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-13" edge="1" parent="hUsenr550SiH_CXeBUld-2" source="MQAsFn0sFYUxdyMh_2cV-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-2" parent="hUsenr550SiH_CXeBUld-2" style="ellipse;fillColor=strokeColor;html=1;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="123.75" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-3" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Membuka menu Kalender Akademik" vertex="1">
+          <mxGeometry height="40" width="202.5" x="37.5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-4" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memilih periode akademik" vertex="1">
+          <mxGeometry height="40" width="202.5" x="37.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hUsenr550SiH_CXeBUld-3" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Sistem" vertex="1">
+          <mxGeometry height="660" width="320" x="320" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-5" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;span style=&quot;&quot;&gt;Menampilkan halaman kalender&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="245" x="35" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-19" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="MQAsFn0sFYUxdyMh_2cV-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-6" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Memeriksa ketersediaan kalender&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="245" x="35" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-14" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="MQAsFn0sFYUxdyMh_2cV-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-7" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;&quot;&gt;Menampilkan informasi kalender belum tersedia&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="245" x="35" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-21" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="MQAsFn0sFYUxdyMh_2cV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-8" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font&gt;Menampilkan kalender akademik&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="245" x="35" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-9" parent="hUsenr550SiH_CXeBUld-3" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="142.5" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-18" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="MQAsFn0sFYUxdyMh_2cV-10" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-23" connectable="0" parent="MQAsFn0sFYUxdyMh_2cV-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=12;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Ya]" vertex="1">
+          <mxGeometry relative="1" x="-0.2175" y="-2" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-20" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="MQAsFn0sFYUxdyMh_2cV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-7">
+          <mxGeometry relative="1" x="-0.0384" as="geometry">
+            <mxPoint x="230" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-22" connectable="0" parent="MQAsFn0sFYUxdyMh_2cV-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;fontSize=12;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Tidak]" vertex="1">
+          <mxGeometry relative="1" x="-0.7812" y="2" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-10" parent="hUsenr550SiH_CXeBUld-3" style="rhombus;fontFamily=Times New Roman;verticalAlign=middle;" value="Kalender tersedia?" vertex="1">
+          <mxGeometry height="50" width="140" x="87.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-15" edge="1" parent="1" source="MQAsFn0sFYUxdyMh_2cV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-16" edge="1" parent="1" source="MQAsFn0sFYUxdyMh_2cV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQAsFn0sFYUxdyMh_2cV-17" edge="1" parent="1" source="MQAsFn0sFYUxdyMh_2cV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="MQAsFn0sFYUxdyMh_2cV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

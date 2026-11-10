@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ZxXiXkmcBNuhA_fPxvAG" name="SIA-UC08">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rca4_DiTBqb6UyAlDqct-1" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Dosen" vertex="1">
+          <mxGeometry height="740" width="240" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-21" edge="1" parent="rca4_DiTBqb6UyAlDqct-1" source="rca4_DiTBqb6UyAlDqct-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-3" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-2" parent="rca4_DiTBqb6UyAlDqct-1" style="ellipse;fillColor=strokeColor;html=1;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="102.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-3" parent="rca4_DiTBqb6UyAlDqct-1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Membuka menu Input Nilai" vertex="1">
+          <mxGeometry height="40" width="165" x="35" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-4" parent="rca4_DiTBqb6UyAlDqct-1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memilih mata kuliah" vertex="1">
+          <mxGeometry height="40" width="165" x="37.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-1" parent="rca4_DiTBqb6UyAlDqct-1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memasukkan nilai mahasiswa" vertex="1">
+          <mxGeometry height="40" width="165" x="35" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-14" edge="1" parent="rca4_DiTBqb6UyAlDqct-1" source="FrndHrNlX9XqQYMD9Z13-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.481;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-3" value="">
+          <mxGeometry relative="1" x="0.0316" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-2" parent="rca4_DiTBqb6UyAlDqct-1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Memperbaiki nilai" vertex="1">
+          <mxGeometry height="40" width="165" x="35" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-3" parent="rca4_DiTBqb6UyAlDqct-1" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Menyimpan nilai" vertex="1">
+          <mxGeometry height="40" width="165" x="37.5" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-5" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Sistem" vertex="1">
+          <mxGeometry height="740" width="320" x="280" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-6" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Menampilkan daftar mata kuliah yang diampu&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-7" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Menampilkan daftar mahasiswa&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-10" parent="rca4_DiTBqb6UyAlDqct-5" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="145" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-9" edge="1" parent="rca4_DiTBqb6UyAlDqct-5" source="rca4_DiTBqb6UyAlDqct-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-17" connectable="0" parent="FrndHrNlX9XqQYMD9Z13-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Tidak]" vertex="1">
+          <mxGeometry relative="1" x="0.3" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rca4_DiTBqb6UyAlDqct-11" parent="rca4_DiTBqb6UyAlDqct-5" style="rhombus;fontFamily=Times New Roman;verticalAlign=middle;" value="Nilai valid" vertex="1">
+          <mxGeometry height="50" width="140" x="90" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-15" edge="1" parent="rca4_DiTBqb6UyAlDqct-5" source="FrndHrNlX9XqQYMD9Z13-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-11" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-4" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Memeriksa kelengkapan dan rentang nilai&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-16" edge="1" parent="rca4_DiTBqb6UyAlDqct-5" source="FrndHrNlX9XqQYMD9Z13-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-10">
+          <mxGeometry relative="1" x="-0.3027" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="490" />
+              <mxPoint x="300" y="490" />
+              <mxPoint x="300" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-5" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font&gt;Menampilkan pesan kesalahan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-10" edge="1" parent="rca4_DiTBqb6UyAlDqct-5" source="FrndHrNlX9XqQYMD9Z13-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-6" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Menyimpan nilai mahasiswa&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-11" edge="1" parent="rca4_DiTBqb6UyAlDqct-5" source="FrndHrNlX9XqQYMD9Z13-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-10" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-7" parent="rca4_DiTBqb6UyAlDqct-5" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="&lt;font&gt;Menampilkan notifikasi berhasil&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-8" edge="1" parent="1" source="rca4_DiTBqb6UyAlDqct-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-2">
+          <mxGeometry relative="1" x="0.0018" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-18" connectable="0" parent="FrndHrNlX9XqQYMD9Z13-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Ya]" vertex="1">
+          <mxGeometry relative="1" x="0.2829" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-12" edge="1" parent="1" source="FrndHrNlX9XqQYMD9Z13-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-19" edge="1" parent="1" source="FrndHrNlX9XqQYMD9Z13-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;exitX=0.466;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-4">
+          <mxGeometry relative="1" x="0.4762" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-22" edge="1" parent="1" source="rca4_DiTBqb6UyAlDqct-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=-0.063;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;entryPerimeter=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-6">
+          <mxGeometry relative="1" x="-0.5669" as="geometry">
+            <Array as="points">
+              <mxPoint x="453.4" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-24" edge="1" parent="1" source="rca4_DiTBqb6UyAlDqct-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-25" edge="1" parent="1" source="rca4_DiTBqb6UyAlDqct-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="rca4_DiTBqb6UyAlDqct-7">
+          <mxGeometry relative="1" x="0.0023" as="geometry">
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FrndHrNlX9XqQYMD9Z13-20" edge="1" parent="1" source="rca4_DiTBqb6UyAlDqct-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;fontFamily=Times New Roman;" target="FrndHrNlX9XqQYMD9Z13-1">
+          <mxGeometry relative="1" x="0.7753" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

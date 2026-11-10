@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="ZxXiXkmcBNuhA_fPxvAG" name="SIA-UC09">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hUsenr550SiH_CXeBUld-2" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Times New Roman;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="580" width="230" x="50" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-19" edge="1" parent="hUsenr550SiH_CXeBUld-2" source="Nb7AB6OejSxtymk_AFe_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-1" parent="hUsenr550SiH_CXeBUld-2" style="ellipse;fillColor=strokeColor;html=1;verticalAlign=middle;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="95" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-2" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Membuka menu KHS" vertex="1">
+          <mxGeometry height="40" width="160" x="30" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-3" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memilih semester" vertex="1">
+          <mxGeometry height="40" width="160" x="30" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-8" parent="hUsenr550SiH_CXeBUld-2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Melihat KHS" vertex="1">
+          <mxGeometry height="40" width="160" x="30" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hUsenr550SiH_CXeBUld-3" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Times New Roman;" value="Sistem" vertex="1">
+          <mxGeometry height="580" width="320" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-4" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Menampilkan pilihan semester" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-23" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="Nb7AB6OejSxtymk_AFe_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-5" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Mengambil data nilai" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-18" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="Nb7AB6OejSxtymk_AFe_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-6" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;" value="Memeriksa status publikasi nilai" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-11" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="Nb7AB6OejSxtymk_AFe_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-7" parent="hUsenr550SiH_CXeBUld-3" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" value="Menampilkan informasi KHS belum tersedia" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-9" parent="hUsenr550SiH_CXeBUld-3" style="ellipse;html=1;shape=endState;fillColor=strokeColor;verticalAlign=middle;fontFamily=Times New Roman;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="145" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-17" edge="1" parent="hUsenr550SiH_CXeBUld-3" source="Nb7AB6OejSxtymk_AFe_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-24" connectable="0" parent="Nb7AB6OejSxtymk_AFe_-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Tidak]" vertex="1">
+          <mxGeometry relative="1" x="0.0533" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-10" parent="hUsenr550SiH_CXeBUld-3" style="rhombus;verticalAlign=middle;fontFamily=Times New Roman;" value="Nilai sudah dipublikasikan?" vertex="1">
+          <mxGeometry height="40" width="240" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-13" edge="1" parent="1" source="Nb7AB6OejSxtymk_AFe_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-25" connectable="0" parent="Nb7AB6OejSxtymk_AFe_-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" value="[Ya]" vertex="1">
+          <mxGeometry relative="1" x="0.1862" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-15" edge="1" parent="1" source="Nb7AB6OejSxtymk_AFe_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-20" edge="1" parent="1" source="Nb7AB6OejSxtymk_AFe_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-21" edge="1" parent="1" source="Nb7AB6OejSxtymk_AFe_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nb7AB6OejSxtymk_AFe_-22" edge="1" parent="1" source="Nb7AB6OejSxtymk_AFe_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" target="Nb7AB6OejSxtymk_AFe_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
